@@ -45,6 +45,8 @@ npm install
 npx cypress open
 ```
 
+✏️ Update the cypress/fixtures/user.json file with your own name, phone number, UPI ID, and address before running the tests to simulate real-time behavior.
+
 ## 📝 Notes
 Login is simulated via phone number and button click.
 
