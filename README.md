@@ -2,6 +2,10 @@
 
 This project automates the **Flipkart payment process** using Cypress, simulating both **successful and failed UPI payment flows**. It includes good practices like fixtures for data management, custom commands, and URL-based flow validation.
 
+## Demo Video
+
+https://drive.google.com/file/d/1inyCCFZDLoLsPa1jUJHEsJh-HHLpZ4Lr/view?usp=sharing
+
 ---
 
 ## 📌 What’s Covered?
